@@ -17,9 +17,6 @@ A website that offers digital marketing specializing in Search Engine Optimizati
 
 https://ivydo.github.io/horiseon/
 
-## Website Screnshot
-![Horiseon Demo Website](Develop/assets/images/01-html-css-git-homework-demo.png "Horiseon Demo Page")
-
 ## Contribution
 
 Made with ❤️ by Ivy
